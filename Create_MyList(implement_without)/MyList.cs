@@ -23,7 +23,7 @@ namespace Create_MyList_implement_without_
             }
             items[items.Length-1]=item;
         }
-        public T[] GetItem()
+        public T[] GetItems()
         {
             return items;
         }

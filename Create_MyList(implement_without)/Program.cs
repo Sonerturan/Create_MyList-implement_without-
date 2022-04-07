@@ -14,7 +14,7 @@ namespace Create_MyList_implement_without_
             sayilar.Add(2);
             sayilar.Add(3);
             sayilar.Add(12);
-            foreach (var item in sayilar.GetItem())
+            foreach (var item in sayilar.GetItems())
             {
                 Console.WriteLine(item);
             }
